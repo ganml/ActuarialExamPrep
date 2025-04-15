@@ -29,7 +29,8 @@ We use:
 - **Google Firebase Analytics:** For aggregated usage statistics (see [Google’s Privacy Policy](https://policies.google.com/privacy)).  
 
 ## 5. User Rights  
-- **Delete Data:** Clear app cache or use the in-app reset option.  
+- **Delete Data:** Clear app cache or use the in-app reset option.
+- **Delete Account:** Users can use the in-app account delete button to delete their accounts.
 - **Opt Out:** Disable analytics in app settings (if applicable).  
 
 ## 6. Policy Updates  
