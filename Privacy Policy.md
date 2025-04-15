@@ -31,7 +31,6 @@ We use:
 ## 5. User Rights  
 - **Delete Data:** Clear app cache or use the in-app reset option.
 - **Delete Account:** Users can use the in-app account delete button to delete their accounts.
-- **Opt Out:** Disable analytics in app settings (if applicable).  
 
 ## 6. Policy Updates  
 Changes will be posted here. Continued use implies acceptance.  
